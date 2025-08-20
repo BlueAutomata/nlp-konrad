@@ -2,3 +2,8 @@ spacy
 pdfplumber
 transformers
 stanza
+pymupdf
+pdfminer.six
+pikepdf
+PyPDF2
+camelot
