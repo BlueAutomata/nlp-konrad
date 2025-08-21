@@ -7,3 +7,11 @@ pdfminer.six
 pikepdf
 PyPDF2
 camelot
+pdf2image
+pytesseract
+flair
+pandas
+huggingface_hub
+openpyxl
+dotenv
+ipywidgets
