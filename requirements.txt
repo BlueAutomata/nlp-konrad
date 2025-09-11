@@ -16,3 +16,9 @@ openpyxl
 dotenv
 ipywidgets
 pdfrw
+scikit-learn
+docx
+python-docx
+docx2txt
+gensim
+tqdm

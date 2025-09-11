@@ -3,6 +3,8 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+glove-sbwc.i25.vec.gz
+
 # C extensions
 *.so
 
